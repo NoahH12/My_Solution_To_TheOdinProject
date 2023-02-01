@@ -1,0 +1,33 @@
+.Container {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+ padding: 15px;
+ background-color:steelblue;
+}
+
+body {
+ margin: 0;
+ padding: 0;
+ 
+}
+
+.H {
+    color: white;
+    margin-top: 10px;
+}
+
+.btn {
+    border: none;
+    border-radius: 10px;
+    background-color: yellow;
+    width: 130px;
+    height: 40px;
+    margin-top: 5px;
+}
+
+
+a {
+    text-decoration: none; 
+    color: steelblue;
+}
