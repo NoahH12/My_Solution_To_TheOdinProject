@@ -1,7 +1,6 @@
    .container {
-      display: flex;
+      display: flex;      
    }
-
 
    body {
     margin: 0;
@@ -13,11 +12,10 @@
        color: black;
        margin: 0;
        padding: 0;
-       text-align: center;
+       padding-left: 550px;
        background-color: aqua;
        width: 1600px;
        height: 70px;
-
    }
    
     .imgO {
@@ -27,4 +25,8 @@
         margin-left: 50px;
     }
 
-
+    .txt_Container {    
+        flex-wrap: wrap;
+        margin-left: 490px;
+        margin-top: -400px;
+    }
