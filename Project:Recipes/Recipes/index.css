@@ -39,7 +39,7 @@ element.style {
     background-color:  aqua;
     width: auto;
     height:  40px;
-    font-size: 24px;
+    font-size: 18px;
     margin: 0;
     margin-left:  450px;
     margin-top:  -354px;
@@ -75,6 +75,29 @@ element.style {
 }
 
 .Ul {
+    font-size: 18px;
+    margin-left:  450px;
+    margin-top:  50px;
+    align-content: center;
+    justify-content: center;
+}
+
+.Di_He {
+    display: flex;
+    flex:  1;
+    background-color:  aqua;
+    width: auto;
+    height:  30px;
+    font-size: 18px;
+    margin: 0;
+    margin-left:  450px;
+    margin-top:  50px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.Ol {
     font-size: 18px;
     margin-left:  450px;
     margin-top:  50px;
