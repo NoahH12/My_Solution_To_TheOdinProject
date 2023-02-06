@@ -4,8 +4,8 @@ body {
 }
 
 .imgO {
-   display: flex;
-   flex: 1;
+    display: flex;
+    flex: 1;
     margin: 0;
     height:  350px;
     margin-top: 50px;
@@ -15,13 +15,16 @@ body {
 .container {
 display: flex;
 }
+
 element.style {
     display: flex;
 }
+
 .H {
  display: flex;
  flex:  1;
  background-color:  aqua;
+ font-size: 32px;
  width: auto;
  margin: 0;
  padding-top:  40px;
@@ -30,12 +33,13 @@ element.style {
  justify-content: center;
 }
 
-.Di {
+.D_He {
     display: flex;
     flex:  1;
     background-color:  aqua;
     width: auto;
     height:  40px;
+    font-size: 24px;
     margin: 0;
     margin-left:  450px;
     margin-top:  -354px;
@@ -51,6 +55,29 @@ element.style {
     margin-left:  450px;
     margin-top:  30px;
     flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.I_He {
+    display: flex;
+    flex:  1;
+    background-color:  aqua;
+    width: auto;
+    height:  30px;
+    font-size: 18px;
+    margin: 0;
+    margin-left:  450px;
+    margin-top:  50px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.Ul {
+    font-size: 18px;
+    margin-left:  450px;
+    margin-top:  50px;
     align-content: center;
     justify-content: center;
 }
