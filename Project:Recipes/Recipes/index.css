@@ -1,32 +1,56 @@
-   .container {
-      display: flex;      
-   }
-
-   body {
+body {
     margin: 0;
-    padding: 0;
-    
-   }
-   
-   .H {
-       color: black;
-       margin: 0;
-       padding: 0;
-       padding-left: 550px;
-       background-color: aqua;
-       width: 1600px;
-       height: 70px;
-   }
-   
-    .imgO {
-        margin-top: 50px;
-        height: 375px;
-        width: 375px;
-        margin-left: 50px;
-    }
+    padding:  0;
+}
 
-    .txt_Container {    
-        flex-wrap: wrap;
-        margin-left: 490px;
-        margin-top: -400px;
-    }
+.imgO {
+   display: flex;
+   flex: 1;
+    margin: 0;
+    height:  350px;
+    margin-top: 50px;
+    margin-left:  50px;
+}
+
+.container {
+display: flex;
+}
+element.style {
+    display: flex;
+}
+.H {
+ display: flex;
+ flex:  1;
+ background-color:  aqua;
+ width: auto;
+ margin: 0;
+ padding-top:  40px;
+ flex-wrap: wrap;
+ align-content: center;
+ justify-content: center;
+}
+
+.Di {
+    display: flex;
+    flex:  1;
+    background-color:  aqua;
+    width: auto;
+    height:  40px;
+    margin: 0;
+    margin-left:  450px;
+    margin-top:  -354px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+   }
+
+.D_txt {
+    display: flex;
+    flex:  1;
+    margin: 0;
+    margin-left:  450px;
+    margin-top:  30px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
