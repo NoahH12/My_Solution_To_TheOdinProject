@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    padding:  0;
+    background-color:  cornsilk;
+}
+
+.imgO {
+    display: flex;
+    flex: 1;
+    margin: 0;
+    height:  350px;
+    margin-top: 50px;
+    margin-left:  50px;
+}
+
+.container {
+display: flex;
+}
+
+element.style {
+    display: flex;
+}
+
+.H {
+ display: flex;
+ flex:  1;
+ background-color:  #00539CFF;
+ font-size: 32px;
+ width: auto;
+ margin: 0;
+ padding-top:  40px;
+ flex-wrap: wrap;
+ align-content: center;
+ justify-content: center;
+ color: #EA738DFF;
+}
+
+.D_He {
+    display: flex;
+    flex:  1;
+    background-color:  #00539CFF;
+    width: auto;
+    height:  40px;
+    font-size: 18px;
+    margin: 0;
+    margin-left:  450px;
+    margin-top:  -354px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    color: #EA738DFF;
+   }
+
+.D_txt {
+    display: flex;
+    flex:  1;
+    margin: 0;
+    margin-left:  450px;
+    margin-top:  30px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.I_He {
+    display: flex;
+    flex:  1;
+    background-color: #00539CFF;
+    width: auto;
+    height:  30px;
+    font-size: 18px;
+    margin: 0;
+    margin-left:  450px;
+    margin-top:  50px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    color: #EA738DFF;
+}
+
+.Ul {
+    font-size: 18px;
+    margin-left:  450px;
+    margin-top:  50px;
+    align-content: center;
+    justify-content: center;
+}
+
+.Di_He {
+    display: flex;
+    flex:  1;
+    background-color:#00539CFF;
+    width: auto;
+    height:  30px;
+    font-size: 18px;
+    margin: 0;
+    margin-left:  450px;
+    margin-top:  50px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    color: #EA738DFF;
+}
+
+.Ol {
+    font-size: 18px;
+    margin-left:  450px;
+    margin-top:  50px;
+    align-content: center;
+    justify-content: center;
+}

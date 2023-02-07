@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding:  0;
+    background-color:  cornsilk;
 }
 
 .imgO {
@@ -23,7 +24,7 @@ element.style {
 .H {
  display: flex;
  flex:  1;
- background-color:  aqua;
+ background-color:  #00539CFF;
  font-size: 32px;
  width: auto;
  margin: 0;
@@ -31,12 +32,13 @@ element.style {
  flex-wrap: wrap;
  align-content: center;
  justify-content: center;
+ color: #EA738DFF;
 }
 
 .D_He {
     display: flex;
     flex:  1;
-    background-color:  aqua;
+    background-color:  #00539CFF;
     width: auto;
     height:  40px;
     font-size: 18px;
@@ -46,6 +48,7 @@ element.style {
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
+    color: #EA738DFF;
    }
 
 .D_txt {
@@ -62,7 +65,7 @@ element.style {
 .I_He {
     display: flex;
     flex:  1;
-    background-color:  aqua;
+    background-color: #00539CFF;
     width: auto;
     height:  30px;
     font-size: 18px;
@@ -72,6 +75,7 @@ element.style {
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
+    color: #EA738DFF;
 }
 
 .Ul {
@@ -85,7 +89,7 @@ element.style {
 .Di_He {
     display: flex;
     flex:  1;
-    background-color:  aqua;
+    background-color:#00539CFF;
     width: auto;
     height:  30px;
     font-size: 18px;
@@ -95,6 +99,7 @@ element.style {
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
+    color: #EA738DFF;
 }
 
 .Ol {
